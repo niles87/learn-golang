@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+// create own type then declare variable and print out the zero value
+// print out the type
+// assign variable a value then print out result
 type hellogo int
 
 var x hellogo
