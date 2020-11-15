@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// programming fundamentals
 // use comparison operators and print results
 func main() {
 	a := 1 == 4

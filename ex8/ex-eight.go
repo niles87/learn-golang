@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// programming fundamentals
 // create typed and untyped constants
 
 const (

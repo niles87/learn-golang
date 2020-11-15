@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// programming fundamentals
 // create variable then print its decimal binary and hex
 // shift the bits to the left once and assign to new variable then print the same as above
 func main() {
