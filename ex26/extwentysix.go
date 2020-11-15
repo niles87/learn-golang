@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// grouping data
 // create a slice that stores the names of all the states print the length
 // print the cap and print the index with values without using range
 func main() {

@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// grouping data
 // create a slice of a slice of string and store data in a multi dimentional slice
 func main() {
 	x := []string{"James", "Bond", "Shaken, not stirred"}

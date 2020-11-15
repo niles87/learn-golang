@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// grouping data
 // using the following slice x := []int{42, 43, 44, 45, 46, 47, 48, 49, 50, 51}
 // slice x to create the following
 /*

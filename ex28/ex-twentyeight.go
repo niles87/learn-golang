@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// grouping data
 // create a map with a key of type string and a value of type []string
 func main() {
 	m := map[string][]string{

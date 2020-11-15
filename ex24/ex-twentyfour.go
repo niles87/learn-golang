@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// grouping data
 // using previous slice append values from lesson plan
 func main() {
 	x := []int{42, 43, 44, 45, 46, 47, 48, 49, 50, 51}

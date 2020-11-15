@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// grouping data
 // using previous map add a record print out the whole map
 func main() {
 	m := map[string][]string{

@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// grouping data
 // delete from a slice
 func main() {
 	s := []int{42, 43, 44, 45, 46, 47, 48, 49, 50, 51}

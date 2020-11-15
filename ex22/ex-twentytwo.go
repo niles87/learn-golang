@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// grouping data
 // Using composite literal create a slice of type int and assign 10 values
 // range over slice and print values then print type of slice
 func main() {
