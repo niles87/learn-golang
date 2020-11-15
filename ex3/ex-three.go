@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// variables and types
 var x = 42
 var y = "James Bond"
 var z = true

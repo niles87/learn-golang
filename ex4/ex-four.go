@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// variables and types
 // create own type then declare variable and print out the zero value
 // print out the type
 // assign variable a value then print out result

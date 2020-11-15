@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// variables and types
 // declare 3 variables with short declaration operator then print out results
 func main() {
 	x := 42

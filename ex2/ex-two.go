@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// variables and types
 // declare 3 variables in global scope and use the var keyword then print out zero values
 var x int
 var y string
