@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// control flow
 // switch statement checking value of a string
 func main() {
 	favSport := "wnsl"
