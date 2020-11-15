@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// functions
 // use defer keyword
 func main() {
 	defer deferred()

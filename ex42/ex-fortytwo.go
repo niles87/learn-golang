@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+// functions
 // create a func that returns a func then call returned func
 func main() {
 	f := foo()

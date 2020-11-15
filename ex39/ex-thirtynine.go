@@ -5,6 +5,7 @@ import (
 	"math"
 )
 
+// functions
 type circle struct {
 	radius float64
 }

@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// functions
 // assign func to variable then call
 func main() {
 	f := func() {

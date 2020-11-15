@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// functions
 // create two functions one that takes in a variadic parameter of type int and returns the sum
 // one that takes a slice of int and returns the sum then print both
 func main() {

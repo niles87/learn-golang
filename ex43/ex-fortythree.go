@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// functions
 // create a func that uses a callback
 func main() {
 	sl := []int{1, 2, 3, 4, 5, 6, 7, 8, 9}

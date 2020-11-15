@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// functions
 // create a user defined struct, attach a method then call the method
 
 type person struct {

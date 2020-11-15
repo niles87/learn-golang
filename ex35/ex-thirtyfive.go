@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// functions
 // create two functions one that returns an int
 // one that returns an int and string then print both
 func main() {

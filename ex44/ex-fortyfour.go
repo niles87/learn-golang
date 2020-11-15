@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// functions
 func main() {
 	i := increment()
 	j := increment()
