@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// structs
 // create a 'person' struct that stores first, last names and three favorite ice cream flavors
 type person struct {
 	firstName string

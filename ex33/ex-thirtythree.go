@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// structs
 // create a vehicle struct with fields of doors and color
 // create two new types that embed the vehicle type
 

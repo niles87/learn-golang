@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// structs
 // create an anonymous struct
 func main() {
 	s := struct {

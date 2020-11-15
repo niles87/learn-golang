@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// structs
 // use previous code and store values in a map with key of last name
 // access each value in map and print them out while ranging over the slice
 type person struct {
