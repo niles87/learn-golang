@@ -15,6 +15,8 @@ func main() {
 	go bar()
 
 	wait.Wait()
+
+	fmt.Println("main is ending")
 }
 
 func foo() {
