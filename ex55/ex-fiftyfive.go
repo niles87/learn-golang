@@ -6,7 +6,7 @@ import (
 	"sync"
 )
 
-// using previous code fix the race condition
+// using previous code fix the race condition using mutex
 func main() {
 	counter := 0
 	const routines = 100
